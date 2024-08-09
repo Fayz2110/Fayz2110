@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fayz</h1>
-<h3 align="center">A passionate Hardware Engineer from Pakistan, with expertise in Verilog, SystemC</h3>
+<h3 align="center">A passionate Hardware design Engineer from Pakistan, with expertise in Verilog, SystemC</h3>
 <div style="text-align: center;">
   <img align="top" alt="Coding" width="1010" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
